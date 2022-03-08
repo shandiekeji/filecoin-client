@@ -2,11 +2,12 @@ package filecoin
 
 import (
 	"context"
+	"testing"
+
 	"github.com/filecoin-project/go-address"
 	"github.com/filecoin-project/go-state-types/abi"
-	"github.com/myxtype/filecoin-client/types"
+	"github.com/shandiekeji/filecoin-client/types"
 	"github.com/shopspring/decimal"
-	"testing"
 )
 
 // 发送FileCoin

@@ -2,9 +2,10 @@ package local
 
 import (
 	"encoding/hex"
-	"github.com/filecoin-project/go-address"
-	"github.com/myxtype/filecoin-client/types"
 	"testing"
+
+	"github.com/filecoin-project/go-address"
+	"github.com/shandiekeji/filecoin-client/types"
 )
 
 func TestWalletNew(t *testing.T) {
